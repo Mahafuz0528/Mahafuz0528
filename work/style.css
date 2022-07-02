@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+}
+h1{
+    color: navy;
+}
+.orange{
+    width: 400px;
+    height: 60px;
+}
+.green{
+    width: 400px;
+    height: 60px;
+}
+.greenbox{
+    width: 403px;
+    height: 245px;
+    background: green;
+    display: flex;
+    margin: auto;
+}
+.redbox{
+    width: 125px;
+    height: 125px;
+    background: red;
+    border-radius: 50%;
+    margin:auto;
+    vertical-align: middle;
+}
+.color{
+    background: linear-gradient(to bottom, rgb(219, 244, 81) 33.3%, rgb(35, 48, 206) 66.6%, #13b186 99.9%)
+
+}
+.color{
+    width: 403px;
+    height: 245px;
+    margin: auto; 
+    margin-top: 50px; 
+}
